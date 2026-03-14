@@ -1,4 +1,4 @@
-# simon_says_game
+# simon_says_game link:https://github.com/Jatzz26/simon_says_game/settings/pages
 How to Play:
 Game Starts: The game randomly flashes one of the four colored boxes.
 Player's Turn: The player must click the same color box in the correct sequence.
